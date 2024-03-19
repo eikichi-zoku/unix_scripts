@@ -1,5 +1,5 @@
 # unix_scripts
-Unix scripts to fix stuff, bulk edit, gain time
+Unix scripts to fix stuff, bulk edit, save time
 
 Those scripts were written for Facebook to support a project to migrate files to Sharepoint.
 
